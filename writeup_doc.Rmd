@@ -54,7 +54,7 @@ At first glance at our data set, we notice that there are a few things that we w
 
 
 ## Process and Clean
-We will use R programming language to process, clean, and analyze our data. Although other tools, such as a spreadsheet program or SQL, can do the same thing, I chose R because of its flexibility and capabilities. As it is now, our data is not ready to be analyzed. We need to process or clean it and transform it into something usable for our analysis needs. Below is a list of things done to change the data into a clean dataset ready for analysis. Check this [GitHub](https://github.com/) repository for details on how the data was cleaned in R. 
+We will use R programming language to process, clean, and analyze our data. Although other tools, such as a spreadsheet program or SQL, can do the same thing, I chose R because of its flexibility and capabilities. As it is now, our data is not ready to be analyzed. We need to process or clean it and transform it into something usable for our analysis needs. Below is a list of things done to change the data into a clean dataset ready for analysis. Check this [GitHub](https://github.com/ElwinCabrera/Data-Analytics-With-R-Case-Study) repository for details on how the data was cleaned in R. 
 
 * Renamed column "tripduration" to "tripduration_sec".
 * The word "Customer" was replaced with "Casual" to remove confusion because subscribers are also customers.
@@ -166,5 +166,5 @@ From all the information gathered, we can make a few predictions on what type of
 
 Now that we have identified what makes casual riders different from annual riders, we can present our findings to Lily Moreno, the marketing director, so that she can use this information to make an effective marketing campaign to influence casual riders to become yearly subscribers.
 
-Visit this GitHub to learn more about how the data was processed and what calculations were done on it.
+Visit this [GitHub](https://github.com/ElwinCabrera/Data-Analytics-With-R-Case-Study) to learn more about how the data was processed and what calculations were done on it.
 

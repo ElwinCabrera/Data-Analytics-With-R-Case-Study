@@ -79,8 +79,8 @@ The first graph shows the relationship between the user type, casual or subscrib
 
 
 
-![Figure 1.1, Total Number of Trips By User Type in 2013](graphs/graph_pie_total_trips_by_usertype.png){width=50%} 
-![Figure 1.2, User Type Vs. Num. Trips in 2013](graphs/graph_bar_usertype_vs_num_trips.png){width=50%}
+![Figure 1.1, Total Number of Trips By User Type in 2013](graphs/graph_pie_total_trips_by_usertype.png)
+![Figure 1.2, User Type Vs. Num. Trips in 2013](graphs/graph_bar_usertype_vs_num_trips.png)
 
 The graphs show that more than half of the total trips taken in 2013 were by subscribers. This fact is helpful, but we must dig deeper to discover more. 
 

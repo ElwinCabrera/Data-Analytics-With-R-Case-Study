@@ -4,3 +4,5 @@
 .RData
 .Ruserdata
 scratch.R
+data/
+data/*

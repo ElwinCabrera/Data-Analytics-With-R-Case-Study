@@ -2,8 +2,8 @@ source("my_functions.R")
 source("my_globals.R")
 
 
-#cyclistic_stations_2013 <- read_csv("/home/elwin/Desktop/Google-Data-Analytics-Professional-Certificate/case-study/Divvy_Stations_Trips_2013/Divvy_Stations_2013.csv")
-cyclistic_trip_data_2013 <- read_csv("/home/elwin/Desktop/Google-Data-Analytics-Professional-Certificate/case-study/Divvy_Stations_Trips_2013/Divvy_Trips_2013.csv")
+#cyclistic_stations_2013 <- read_csv("./data/Divvy_Stations_Trips_2013/Divvy_Stations_2013.csv")
+cyclistic_trip_data_2013 <- read_csv("./data/Divvy_Stations_Trips_2013/Divvy_Trips_2013.csv")
 
 total_rows <- nrow(cyclistic_trip_data_2013)
 
